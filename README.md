@@ -6,7 +6,7 @@
 
 
 ## Background
-_Intensive Care Nurse passionate about using technology and automation to drive system efficiencies and improved experiences for staff and patients. Deeply committed to understanding complex, multi-domain problems and utilising User-centered design processes to implement agile solutions to complex problems._
+_Intensive Care Nurse passionate about using technology and automation to drive system efficiencies and improved experiences for staff and patients. Deeply committed to understanding complex, multi-domain problems and utilising User-centered design processes to implement agile solutions to these problems._
 
 ## Currently Projects
 - Professionally, I am undertaking a secondment within the Digital Health division of [Alfred Health](https://www.alfredhealth.org.au) as a Clinical Business Analyst, delivering agile solutions to time critical issues across the organisation.
