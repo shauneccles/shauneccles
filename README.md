@@ -1,12 +1,12 @@
 # Shaun Eccles-Smith
-[![Pronouns - He/Him/They/Them](https://img.shields.io/badge/Pronouns-He%2FHim%2FThey%2FThem-brightgreen)](https://www.vic.gov.au/inclusive-language-guide)
-[![Email - shauneccles@gmail.com](https://img.shields.io/badge/Email-shauneccles%40gmail.com-brightgreen)](mailto:shauneccles@gmail.com)
+[![Pronouns - He/Him/They/Them](https://img.shields.io/badge/Pronouns-He%2FHim%2FThey%2FThem-blueviolet)](https://www.vic.gov.au/inclusive-language-guide)
+[![Email - shauneccles@gmail.com](https://img.shields.io/badge/Email-shauneccles%40gmail.com-blueviolet)](mailto:shauneccles@gmail.com)
 
 
 
 
 ## Background
-_Intensive Care Nurse passionate about using technology and automation to drive system efficiencies and improved experiences for staff and patients. Deeply committed to understanding complex, multi-domain problems and utilising User-centered design processes to implement agile solutions to these problems._
+_Intensive Care Nurse passionate about using technology and automation to drive system efficiencies and improved experiences for staff and patients. Deeply committed to understanding complex, multi-domain problems and utilising User-centered design processes to implement Agile, DevOps focused solutions._
 
 ## Currently Projects
 - Professionally, I am undertaking a secondment within the Digital Health division of [Alfred Health](https://www.alfredhealth.org.au) as a Clinical Business Analyst, delivering agile solutions to time critical issues across the organisation.
