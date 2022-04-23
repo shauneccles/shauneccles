@@ -9,11 +9,11 @@
 </div>
 
 ## Background
-_Intensive Care Nurse interested in using technology and automation to drive system efficiencites and improved patient experiences. Deeply interested in understanding complex, multi-domain problems and using to implement agile solutions to complex problems._
+_Intensive Care Nurse passionate about using technology and automation to drive system efficiencites and improved experiences for staff and patients. Deeply committed to understanding complex, multi-domain problems and utilising User-centered design processes to implement agile solutions to complex problems._
 
 ## Currently Projects
-- In my spare time, I enjoy contributing to [LedFx](https://www.github.com/LedFx/LedFx), a realtime music visualization tool using python to convert sound to light. This project has helped mature my python, CI/CD and community collaboration skills. 
 - Professionally, I am undertaking a secondment within the Digital Health division of [Alfred Health](https://www.alfredhealth.org.au) as a Clinical Business Analyst, delivering agile solutions to time critical issues across the organisation.
+- In my spare time, I enjoy contributing to [LedFx](https://www.github.com/LedFx/LedFx), a realtime music visualization tool using python to convert sound to light. This project has helped mature my python, CI/CD and community collaboration skills. 
 
 ## Links:
   - [LinkedIn](https://www.linkedin.com/in/ShaunEccles)
