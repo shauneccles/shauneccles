@@ -1,12 +1,11 @@
-### Shaun Eccles-Smith
+# Shaun Eccles-Smith
 [![Pronouns - He/Him/They/Them](https://img.shields.io/badge/Pronouns-He%2FHim%2FThey%2FThem-brightgreen)](https://www.vic.gov.au/inclusive-language-guide)
 [![Email - shauneccles@gmail.com](https://img.shields.io/badge/Email-shauneccles%40gmail.com-brightgreen)](mailto:shauneccles@gmail.com)
-<a href="https://github.com/ShaunEccles"><img src="https://komarev.com/ghpvc/?username=ShaunEccles&color=brightgreen" alt="ShaunEccles" /></a>
-<a href="mailto:shauneccles@gmail.com"><img src="https://img.shields.io/badge/Email-shauneccles@gmail.com-brightgreen" alt="Email" /></a>
+
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ShaunEccles&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunEccles&layout=compact" />
+  <img height="170"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunEccles&layout=compact" />
 </div>
 
 ## Background
