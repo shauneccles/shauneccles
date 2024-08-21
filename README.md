@@ -14,8 +14,3 @@ _Intensive Care Nurse passionate about using technology and automation to drive 
 
 ## Links:
   - [LinkedIn](https://www.linkedin.com/in/ShaunEccles)
-### GitHub Overview:
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ShaunEccles&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunEccles&layout=compact" />
-</div>
