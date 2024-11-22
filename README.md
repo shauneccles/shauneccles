@@ -1,5 +1,5 @@
 # Shaun Eccles-Smith
-[![Pronouns - He/Him/They/Them](https://img.shields.io/badge/Pronouns-He%2FHim%2FThey%2FThem-blueviolet)](https://www.vic.gov.au/inclusive-language-guide)
+[![Pronouns -They/Them](https://img.shields.io/badge/Pronouns-They%2FThem-blueviolet)](https://www.vic.gov.au/inclusive-language-guide)
 [![Email - shauneccles@gmail.com](https://img.shields.io/badge/Email-shauneccles%40gmail.com-blueviolet)](mailto:shauneccles@gmail.com)
 
 
