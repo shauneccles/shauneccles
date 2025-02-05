@@ -9,7 +9,7 @@
 _Intensive Care Nurse passionate about using technology and automation to drive system efficiencies and improved experiences for staff and patients. Deeply committed to understanding complex, multi-domain problems and utilising User-centered design processes to implement Agile, DevOps focused solutions._
 
 ## Currently Projects
-- Professionally, I am working within the Quality Improvement team at [The Royal Melbourne Hospital](https://www.thermh.org.au/).
+- Professionally, I am working within the Continuous Improvement team at [Eastern Health](https://easternhealth.org.au).
 - In my spare time, I enjoy contributing to [LedFx](https://www.github.com/LedFx/LedFx), a realtime music visualization tool using python to convert sound to light. This project has helped mature my python, CI/CD and community collaboration skills. 
 
 ## Links:
